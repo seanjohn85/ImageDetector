@@ -13,6 +13,7 @@
 		C9C549CC1F81800E000A8E6F /* ImageDetector.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C9C549CA1F81800E000A8E6F /* ImageDetector.xcdatamodeld */; };
 		C9C549CE1F81800E000A8E6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9C549CD1F81800E000A8E6F /* Assets.xcassets */; };
 		C9C549D11F81800E000A8E6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9C549CF1F81800E000A8E6F /* LaunchScreen.storyboard */; };
+		C9C549DE1F818B66000A8E6F /* GoogLeNetPlaces.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C9C549DD1F818B62000A8E6F /* GoogLeNetPlaces.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C9C549CD1F81800E000A8E6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9C549D01F81800E000A8E6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9C549D21F81800E000A8E6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9C549DD1F818B62000A8E6F /* GoogLeNetPlaces.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = GoogLeNetPlaces.mlmodel; path = ../../../../.Trash/GoogLeNetPlaces.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C9C549CF1F81800E000A8E6F /* LaunchScreen.storyboard */,
 				C9C549D21F81800E000A8E6F /* Info.plist */,
 				C9C549CA1F81800E000A8E6F /* ImageDetector.xcdatamodeld */,
+				C9C549DD1F818B62000A8E6F /* GoogLeNetPlaces.mlmodel */,
 			);
 			path = ImageDetector;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				C9C549CC1F81800E000A8E6F /* ImageDetector.xcdatamodeld in Sources */,
 				C9C549C61F81800E000A8E6F /* ViewController.swift in Sources */,
 				C9C549C41F81800E000A8E6F /* AppDelegate.swift in Sources */,
+				C9C549DE1F818B66000A8E6F /* GoogLeNetPlaces.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RX98TCH4D4;
 				INFOPLIST_FILE = ImageDetector/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = seanjohn85.github.com.ImageDetector;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -296,6 +301,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RX98TCH4D4;
 				INFOPLIST_FILE = ImageDetector/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = seanjohn85.github.com.ImageDetector;
 				PRODUCT_NAME = "$(TARGET_NAME)";
