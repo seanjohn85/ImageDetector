@@ -12,7 +12,6 @@ simply down load the project open in Xcode and hit the build button.
 
 #### I will modify the code to allow the user to use their camera or sample photos at a later date.
 
-![alt tag](https://github.com/seanjohn85/Simulator Screen Shot - iPhone 8 - 2017-10-01 at 23.01.45.png
-g)
+![alt tag](https://github.com/seanjohn85/image.png)
 
 
