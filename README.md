@@ -10,8 +10,8 @@ simply down load the project open in Xcode and hit the build button.
 
 ### Please node the images are sample images and are hard coded to the project These images can be replaced with your own images to test against the model.
 
-#### I will modify the code to allow the user to use their camera or sample photos at a later date.
 
 ![alt tag](https://github.com/seanjohn85/ImageDetector/blob/master/image.png)
 
 
+#### I will modify the code to allow the user to use their camera or sample photos at a later date.
