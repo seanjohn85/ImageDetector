@@ -12,6 +12,6 @@ simply down load the project open in Xcode and hit the build button.
 
 #### I will modify the code to allow the user to use their camera or sample photos at a later date.
 
-![alt tag](https://github.com/seanjohn85/image.png)
+![alt tag](https://github.com/seanjohn85/ImageDetector/image.png)
 
 
